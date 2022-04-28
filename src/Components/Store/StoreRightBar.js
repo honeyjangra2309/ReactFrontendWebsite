@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function StoreRightBar() {
   return (
-    <div className='container p-3 d-flex flex-column mr-4 ml-2' style={{boxShadow:"rgba(0, 0, 0, 0.35) 0px 5px 15px",borderRadius:"5px",width:"35%"}}>
+    <div className='container p-3 d-flex flex-column mr-4 ml-3 mt-5' style={{boxShadow:"rgba(0, 0, 0, 0.35) 0px 5px 15px",borderRadius:"5px",width:"40%"}}>
          <div className='d-flex justify-content-between'>
           <h5>CART</h5>
           <i className="fa fa-shopping-bag" style={{fontSize:"20px"}}></i>

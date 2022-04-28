@@ -4,7 +4,7 @@ import "./StoreLeftBar.css"
 
 export default function StoreLeftBar() {
   return (
-    <div className='container p-3 ml-4 mr-2' style={{boxShadow:"rgba(0, 0, 0, 0.35) 0px 5px 15px",borderRadius:"5px",width:"35%"}}>
+    <div className='container p-3 ml-4 mr-3 mt-5' style={{boxShadow:"rgba(0, 0, 0, 0.35) 0px 5px 15px",borderRadius:"5px",width:"40%"}}>
         <div className='d-flex justify-content-between'>
           <h5>FILTERS</h5>
           <i className="fa fa-filter"  style={{fontSize:"20px"}}></i>
@@ -12,19 +12,19 @@ export default function StoreLeftBar() {
         <h5 className='mt-4 mb-1'>Cost</h5>
         <div className="form-check">
         <input className="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-        <label className="form-check-label" for="flexCheckDefault">
+        <label className="form-check-label" htmlFor="flexCheckDefault">
             Rs. 1500-4000
         </label>
         </div>
         <div className="form-check">
         <input className="form-check-input" type="checkbox" value="" id="flexCheckChecked" />
-        <label className="form-check-label" for="flexCheckChecked">
+        <label className="form-check-label" htmlFor="flexCheckChecked">
             Rs. 4001-7000
         </label>
         </div>
         <div className="form-check">
         <input className="form-check-input" type="checkbox" value="" id="flexCheckChecked" />
-        <label className="form-check-label" for="flexCheckChecked">
+        <label className="form-check-label" htmlFor="flexCheckChecked">
             Rs. 7001+
         </label>
         </div>
@@ -36,37 +36,37 @@ export default function StoreLeftBar() {
         <h5 className='mt-4 mb-1'>Design Templates</h5>
         <div className="form-check">
         <input className="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-        <label className="form-check-label" for="flexCheckDefault">
+        <label className="form-check-label" htmlFor="flexCheckDefault">
             2
         </label>
         </div>
         <div className="form-check">
         <input className="form-check-input" type="checkbox" value="" id="flexCheckChecked" />
-        <label className="form-check-label" for="flexCheckChecked">
+        <label className="form-check-label" htmlFor="flexCheckChecked">
             3
         </label>
         </div>
         <div className="form-check">
         <input className="form-check-input" type="checkbox" value="" id="flexCheckChecked" />
-        <label className="form-check-label" for="flexCheckChecked">
+        <label className="form-check-label" htmlFor="flexCheckChecked">
             3+
         </label>
         </div>
         <h5 className='mt-4 mb-1'>Type</h5>
         <div className="form-check">
         <input className="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
-        <label className="form-check-label" for="flexCheckDefault">
+        <label className="form-check-label" htmlFor="flexCheckDefault">
             Loafers
         </label>
         </div>
         <div className="form-check">
         <input className="form-check-input" type="checkbox" value="" id="flexCheckChecked" />
-        <label className="form-check-label" for="flexCheckChecked">
+        <label className="form-check-label" htmlFor="flexCheckChecked">
             Sneakers
         </label>
         </div>
         <div className='text-center'>
-        <button type='button' className='btn btn-sm btn-dark mt-4'>apply</button>
+        <button type='button' className='btn btn-sm btn-dark mt-2'>apply</button>
         </div>
     </div>
   )

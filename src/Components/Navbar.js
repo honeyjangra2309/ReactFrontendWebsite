@@ -27,7 +27,7 @@ export default function Navbar() {
   }
   return (
     <div>
-        <div className="container d-flex justify-content-between m-3" style={{fontFamily:"text",position:"fixed",top:"0"}}>
+        <div className="container d-flex justify-content-between mt-2 ml-3 align-items-center" style={{fontFamily:"text",position:"fixed",top:"0",zIndex:"1"}}>
             <div>
                <img src={brand} alt="" style={{width:'50px'}}/>
             </div>
@@ -41,7 +41,7 @@ export default function Navbar() {
                </ul>
             </div>
             <div className='my-4'>
-            <i className="fa fa-user mr-2" aria-hidden="true"></i> 
+            <i className="fa fa-user mr-2" aria-hidden="true" style={{fontSize:"20px"}}></i> 
                GAGAN
             </div>
         </div>

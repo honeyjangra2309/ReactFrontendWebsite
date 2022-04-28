@@ -4,7 +4,7 @@ import shoe1 from "../../assets/shoe.jpg"
 import shoe2 from "../../assets/shoe2.png"
 export default function StoreMiddle() {
   return (
-    <div className='container p-3 d-flex flex-column' style={{boxShadow:"rgba(0, 0, 0, 0.35) 0px 5px 15px",borderRadius:"5px"}}>
+    <div className='container p-3 d-flex flex-column mt-5' style={{boxShadow:"rgba(0, 0, 0, 0.35) 0px 5px 15px",borderRadius:"5px"}}>
        <div className='d-flex justify-content-between'>
           <h5>SHOES</h5>
           <div>

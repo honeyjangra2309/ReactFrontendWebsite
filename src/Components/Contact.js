@@ -5,8 +5,8 @@ import facebook from '../assets/facebook.png'
 import '../App.css'
 export default function Contact() {
   return (
-    <div className='container pt-5 mt-3' id='contact' style={{fontFamily:"text",width:"350px",height:"100vh"}}>
-       <div className="container text-center p-1" style={{boxShadow:"rgba(0, 0, 0, 0.35) 0px 5px 15px",borderRadius:"5px"}}>
+    <div className='container pt-5 mt-5' id='contact' style={{fontFamily:"text",width:"350px",height:"100vh"}}>
+       <div className="container text-center p-1 mt-5" style={{boxShadow:"rgba(0, 0, 0, 0.35) 0px 5px 15px",borderRadius:"5px"}}>
            <h5 className='my-4'>REACH US AT</h5>
             <h5 className='m-0'>support@kicksup.com</h5>
             <p className='m-0 pb-3'>for any technical support</p>

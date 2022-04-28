@@ -8,11 +8,11 @@ export default function StoreItem(props) {
         <div className='d-flex justify-content-between'>
         <p>{props.price}</p>
           <div style={{fontSize:"12px"}}>
-          <span class="fa fa-star"></span>
-            <span class="fa fa-star"></span>
-            <span class="fa fa-star"></span>
-            <span class="fa fa-star"></span>
-            <span class="fa fa-star"></span>
+          <span className="fa fa-star"></span>
+            <span className="fa fa-star"></span>
+            <span className="fa fa-star"></span>
+            <span className="fa fa-star"></span>
+            <span className="fa fa-star"></span>
           </div>
         </div>
     </div>
