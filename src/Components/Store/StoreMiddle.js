@@ -13,11 +13,11 @@ export default function StoreMiddle() {
           </div>
         </div>
         <div className='my-5 d-flex justify-content-between'>
-          <div>
+          <div className='mr-3'>
           <StoreItem image={shoe1} name="KSL01" price="Rs. 2000" stars="3"/>
           <StoreItem image={shoe1} name="KSL01" price="Rs. 2000"/>
           </div>
-          <div>
+          <div className='mr-3'>
           <StoreItem image={shoe2} name="KSW01" price="Rs. 2500"/>
           <StoreItem image={shoe2} name="KSW01" price="Rs. 2500"/>
           </div>

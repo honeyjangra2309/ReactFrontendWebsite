@@ -4,7 +4,7 @@ import "./StoreLeftBar.css"
 
 export default function StoreLeftBar() {
   return (
-    <div className='container p-3 ml-4 mr-3 mt-5' style={{boxShadow:"rgba(0, 0, 0, 0.35) 0px 5px 15px",borderRadius:"5px",width:"40%"}}>
+    <div className='container p-3 ml-4 mr-3 mt-5' style={{boxShadow:"rgba(0, 0, 0, 0.35) 0px 5px 15px",borderRadius:"5px"}}>
         <div className='d-flex justify-content-between'>
           <h5>FILTERS</h5>
           <i className="fa fa-filter"  style={{fontSize:"20px"}}></i>
