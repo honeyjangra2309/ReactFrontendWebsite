@@ -1,0 +1,26 @@
+.timeline-wrapper {
+    margin-left: 1.5rem;
+    border-left: 2px solid #ddd;
+  }
+  .node {
+    padding-left: .5rem;
+    padding-bottom: 1.5rem;
+    position: relative;
+  }
+  .node h5, .node p {
+    margin: 0;
+  }
+  .node::before {
+    content: "";
+    width: .5rem;
+    height: .5rem;
+    background: #fff;
+    border: 2px solid #ccc;
+    border-radius: 50%;
+    position: absolute;
+    top: .3rem;
+    left: -.5rem;
+  }
+  .node p {
+      font-size: 14px;
+  }

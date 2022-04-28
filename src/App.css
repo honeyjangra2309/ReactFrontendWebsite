@@ -1,0 +1,11 @@
+@font-face {
+  font-family: text;
+  src: url(../src//assets/fonts/Product_Sans.ttf);
+}
+.main-nav {
+  color: black;
+}
+.main-nav:hover {
+  color: black;
+  text-decoration: none;
+}
