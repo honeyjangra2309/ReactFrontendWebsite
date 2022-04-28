@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ReactFrontendWebsite/static/css/main.e478f0cd.css",
+    "main.js": "/ReactFrontendWebsite/static/js/main.efe5187f.js",
+    "static/js/787.729b1c66.chunk.js": "/ReactFrontendWebsite/static/js/787.729b1c66.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/ReactFrontendWebsite/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/shoe2.png": "/ReactFrontendWebsite/static/media/shoe2.ef5414e508ed55925e20.png",
+    "static/media/fontawesome-webfont.eot": "/ReactFrontendWebsite/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/ReactFrontendWebsite/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/tonikroos.jpg": "/ReactFrontendWebsite/static/media/tonikroos.fb061c76e3ec05875a55.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/ReactFrontendWebsite/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/grasspic.jpg": "/ReactFrontendWebsite/static/media/grasspic.60d418585600b05647eb.jpg",
+    "static/media/Product_Sans.ttf": "/ReactFrontendWebsite/static/media/Product_Sans.863727019c4716c4dc24.ttf",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/ReactFrontendWebsite/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/shoe.jpg": "/ReactFrontendWebsite/static/media/shoe.9a7bc9c8f2cbd547b24e.jpg",
+    "static/media/christiano.jpg": "/ReactFrontendWebsite/static/media/christiano.6c59ff44f69c755a3933.jpg",
+    "static/media/zidane.jpg": "/ReactFrontendWebsite/static/media/zidane.b7444a37d5bbb4202777.jpg",
+    "static/media/medium.png": "/ReactFrontendWebsite/static/media/medium.b87629cbe6267bf69b33.png",
+    "static/media/ikercasillas.jpg": "/ReactFrontendWebsite/static/media/ikercasillas.3d1a1e063e58e3314681.jpg",
+    "index.html": "/ReactFrontendWebsite/index.html",
+    "main.e478f0cd.css.map": "/ReactFrontendWebsite/static/css/main.e478f0cd.css.map",
+    "main.efe5187f.js.map": "/ReactFrontendWebsite/static/js/main.efe5187f.js.map",
+    "787.729b1c66.chunk.js.map": "/ReactFrontendWebsite/static/js/787.729b1c66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e478f0cd.css",
+    "static/js/main.efe5187f.js"
+  ]
+}
