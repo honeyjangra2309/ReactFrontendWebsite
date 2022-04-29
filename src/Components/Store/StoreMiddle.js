@@ -12,7 +12,7 @@ export default function StoreMiddle() {
           <button type='button' style={{border:"1px solid black",backgroundColor:"white"}}>sort by</button>
           </div>
         </div>
-        <div className='my-5 d-flex justify-content-between'>
+        <div className='my-3 d-flex justify-content-between'>
           <div className='mr-3'>
           <StoreItem image={shoe1} name="KSL01" price="Rs. 2000" stars="3"/>
           <StoreItem image={shoe1} name="KSL01" price="Rs. 2000"/>

@@ -29,7 +29,7 @@ export default function Navbar() {
     <div>
         <div className="container d-flex justify-content-between mt-2 ml-3 align-items-center" style={{fontFamily:"text",position:"fixed",top:"0",zIndex:"1"}}>
             <div>
-               <img src={brand} alt="" style={{width:'50px'}}/>
+               <img src={brand} alt="" style={{width:'50px'}} className="ml-3"/>
             </div>
             <div>
                <ul className='d-flex justify-content-between list-unstyled my-3' style={{cursor:"pointer"}}>

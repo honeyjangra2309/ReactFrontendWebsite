@@ -9,3 +9,6 @@
   color: black;
   text-decoration: none;
 }
+.checked {
+  color: orange;
+}

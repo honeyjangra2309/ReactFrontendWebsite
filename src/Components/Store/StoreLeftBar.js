@@ -1,10 +1,10 @@
 import React from 'react'
 import 'font-awesome/css/font-awesome.min.css';
 import "./StoreLeftBar.css"
-
+import '../../App.css'
 export default function StoreLeftBar() {
   return (
-    <div className='container p-3 ml-4 mr-3 mt-5' style={{boxShadow:"rgba(0, 0, 0, 0.35) 0px 5px 15px",borderRadius:"5px"}}>
+    <div className='container p-3 ml-5 mr-3 mt-5' style={{boxShadow:"rgba(0, 0, 0, 0.35) 0px 5px 15px",borderRadius:"5px",fontFamily:"text"}}>
         <div className='d-flex justify-content-between'>
           <h5>FILTERS</h5>
           <i className="fa fa-filter"  style={{fontSize:"20px"}}></i>
