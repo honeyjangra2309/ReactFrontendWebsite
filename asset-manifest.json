@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ReactFrontendWebsite/static/css/main.e478f0cd.css",
-    "main.js": "/ReactFrontendWebsite/static/js/main.9ab9c59c.js",
+    "main.css": "/ReactFrontendWebsite/static/css/main.03a86e13.css",
+    "main.js": "/ReactFrontendWebsite/static/js/main.1e54a035.js",
     "static/js/787.729b1c66.chunk.js": "/ReactFrontendWebsite/static/js/787.729b1c66.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/ReactFrontendWebsite/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/shoe2.png": "/ReactFrontendWebsite/static/media/shoe2.ef5414e508ed55925e20.png",
@@ -18,12 +18,12 @@
     "static/media/medium.png": "/ReactFrontendWebsite/static/media/medium.b87629cbe6267bf69b33.png",
     "static/media/ikercasillas.jpg": "/ReactFrontendWebsite/static/media/ikercasillas.3d1a1e063e58e3314681.jpg",
     "index.html": "/ReactFrontendWebsite/index.html",
-    "main.e478f0cd.css.map": "/ReactFrontendWebsite/static/css/main.e478f0cd.css.map",
-    "main.9ab9c59c.js.map": "/ReactFrontendWebsite/static/js/main.9ab9c59c.js.map",
+    "main.03a86e13.css.map": "/ReactFrontendWebsite/static/css/main.03a86e13.css.map",
+    "main.1e54a035.js.map": "/ReactFrontendWebsite/static/js/main.1e54a035.js.map",
     "787.729b1c66.chunk.js.map": "/ReactFrontendWebsite/static/js/787.729b1c66.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e478f0cd.css",
-    "static/js/main.9ab9c59c.js"
+    "static/css/main.03a86e13.css",
+    "static/js/main.1e54a035.js"
   ]
 }
