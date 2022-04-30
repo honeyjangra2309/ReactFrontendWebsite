@@ -1,8 +1,10 @@
-import React from 'react'
+import React,{useState} from 'react'
 import 'font-awesome/css/font-awesome.min.css';
 import "./StoreLeftBar.css"
 import '../../App.css'
-export default function StoreLeftBar() {
+export default function StoreLeftBar(props) {
+
+   
   return (
     <div className='container p-3 ml-5 mr-3 mt-5' style={{boxShadow:"rgba(0, 0, 0, 0.35) 0px 5px 15px",borderRadius:"5px",fontFamily:"text"}}>
         <div className='d-flex justify-content-between'>
@@ -54,13 +56,13 @@ export default function StoreLeftBar() {
         </div>
         <h5 className='mt-4 mb-1'>Type</h5>
         <div className="form-check">
-        <input className="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+        <input className="form-check-input" type="checkbox" value="" id="flexCheckDefault" checked={props.loafers} onChange={props.loafersClicked}/>
         <label className="form-check-label" htmlFor="flexCheckDefault">
             Loafers
         </label>
         </div>
         <div className="form-check">
-        <input className="form-check-input" type="checkbox" value="" id="flexCheckChecked" />
+        <input className="form-check-input" type="checkbox" value="" id="flexCheckChecked"  checked={props.sneakers} onChange={props.sneakersClicked}/>
         <label className="form-check-label" htmlFor="flexCheckChecked">
             Sneakers
         </label>
